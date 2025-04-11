@@ -1,0 +1,6 @@
+{
+    "api_key": "api_ewrweil93fj0fljwwo939u4djldf",
+    "port": 8443,
+    "cert_file": "server.crt",
+    "key_file": "server.key"
+}
