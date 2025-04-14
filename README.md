@@ -1,4 +1,4 @@
-# YourPureAI Computer Control API Server
+# YourPureAI Remote Computer Control API Server
 
 A minimalist HTTPS API server designed to work with Your Pure AI. This lightweight server enables remote execution of scenarios and automation tasks on your computer from any mobile device on your local network.
 
@@ -76,6 +76,8 @@ python https_server.py
 The server will output its local address and port, for example:
 ```
 Server running on https://localhost:8443 and is available from local network
+https://localhost:8443/manage - used to manage the scenarios
+https://localhost:8443/api - used to manage the API requests to run scenarios
 ```
 
 ### Connecting from Your Pure AI Computer Control App
