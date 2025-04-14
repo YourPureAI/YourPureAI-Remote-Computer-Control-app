@@ -1,4 +1,4 @@
-# YourPureAI Computer Control API Server
+# YourPureAI Remote Computer Control API Server
 
 A minimalist HTTPS API server designed to work with Your Pure AI. This lightweight server enables remote execution of scenarios and automation tasks on your computer from any mobile device on your local network.
 
