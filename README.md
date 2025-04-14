@@ -76,6 +76,8 @@ python https_server.py
 The server will output its local address and port, for example:
 ```
 Server running on https://localhost:8443 and is available from local network
+https://localhost:8443/manage - used to manage the scenarios
+https://localhost:8443/api - used to manage the API requests to run scenarios
 ```
 
 ### Connecting from Your Pure AI Computer Control App
